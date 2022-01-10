@@ -1,6 +1,6 @@
-#ECG_generator
-##ECG_generator based on Fourier series
-###English Introduction
+# ECG_generator
+## ECG_generator based on Fourier series
+### English Introduction
 
 The program include a useful class in N_generate, and the document "main.py" is empty, stay for further update.
 
@@ -42,7 +42,7 @@ The class include 15 functions in it, they can be divided into 5 classes.
 When you do the instantiation of the class, you should enter "time_span=","rate=","accuracy". And the defult parameters are 2, 60, 0.01
 
 ---
-###Chinese Introduction
+### 中文介绍
 
 该程序在N_generate中存在一个有用的类，但文档“main.py”为空，保留给未来的更新。
 
